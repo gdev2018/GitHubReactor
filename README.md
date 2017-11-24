@@ -12,3 +12,4 @@ download in Google Play:
 * okhttp3
 * butterknife
 * Timber - logger
+* Parcel
