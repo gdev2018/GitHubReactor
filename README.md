@@ -13,3 +13,4 @@ download in Google Play:
 * butterknife
 * Timber - logger
 * Parcel
+* Gradle 3.0

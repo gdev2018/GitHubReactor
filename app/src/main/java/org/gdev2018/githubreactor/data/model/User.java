@@ -5,7 +5,7 @@ import android.os.Parcelable;
 
 /**
  * Created by Miroslaw Stanek on 22.04.15.
- *   Updated by gdev2018 on 2017-11-22
+ * 2017-11-22 Updated by gdev2018
  */
 public class User implements Parcelable {
     // implements interface
