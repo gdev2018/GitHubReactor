@@ -2,7 +2,7 @@
 GitHubReactor - open-source GitHub client, showing my technology stack as Android developer
 
 Google Play:
-[https://play.google.com/store?hl=ru]
+[https://play.google.com/store/apps/details?id=org.gdev2018.githubreactor]
 
 
 ## technology stack:
