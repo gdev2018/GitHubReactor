@@ -1,12 +1,13 @@
 # GitHubReactor
+GitHubReactor - open-source GitHub client, showing my technology stack as Android developer
 
-download in Google Play:
+Google Play:
 [https://play.google.com/store?hl=ru]
 
 
 ## technology stack:
 
-* rxjava2
+* RxJava2
 * Dagger2
 * retrofit2
 * okhttp3
