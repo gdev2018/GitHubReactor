@@ -13,10 +13,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-
-
 /**
  * Created by Miroslaw Stanek on 24.04.15.
+ * 2017-11-30 Updated by gdev2018
  */
 public class RepositoriesListAdapter extends RecyclerView.Adapter {
 

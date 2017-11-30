@@ -9,6 +9,7 @@ import dagger.Subcomponent;
 
 /**
  * Created by Miroslaw Stanek on 23.04.15.
+ * 2017-11-30 Updated by gdev2018
  */
 @ActivityScope
 @Subcomponent(

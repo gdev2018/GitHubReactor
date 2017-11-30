@@ -20,7 +20,10 @@ import javax.inject.Inject;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
-
+/**
+ * Created by Miroslaw Stanek on 23.04.15.
+ * 2017-11-30 Updated by gdev2018
+ */
 public class RepositoriesListActivity extends BaseActivity {
     @BindView(R.id.rvRepositories)
     RecyclerView rvRepositories;

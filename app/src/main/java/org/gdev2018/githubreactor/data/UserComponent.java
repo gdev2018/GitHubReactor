@@ -10,6 +10,7 @@ import dagger.Subcomponent;
 
 /**
  * Created by Miroslaw Stanek on 23.06.15.
+ * 2017-11-30 Updated by gdev2018
  */
 @UserScope
 @Subcomponent(

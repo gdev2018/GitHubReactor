@@ -2,6 +2,7 @@ package org.gdev2018.githubreactor;
 
 /**
  * Created by Miroslaw Stanek on 28.09.15.
+ * 2017-11-30 Updated by gdev2018
  */
 public class HeavyExternalLibrary {
 

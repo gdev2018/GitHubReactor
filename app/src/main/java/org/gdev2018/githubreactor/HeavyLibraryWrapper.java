@@ -11,6 +11,7 @@ import rx.schedulers.Schedulers;
 
 /**
  * Created by Miroslaw Stanek on 28.09.15.
+ * 2017-11-30 Updated by gdev2018
  */
 public class HeavyLibraryWrapper {
 
